@@ -28,8 +28,7 @@ def main():
             print(f"ERROR: Failed at {notebook}")
             sys.exit(1)
     
-    print("\n✓ Pipeline completed successfully!")
+    print("\nPipeline completed successfully!")
 
 if __name__ == "__main__":
-    main()    git config user.name "Your Personal Name"
-    git config user.email "your.personal.email@gmail.com"
+    main()
